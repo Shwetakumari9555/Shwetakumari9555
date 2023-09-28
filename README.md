@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Shwetakumari9555/Shwetakumari9555.github.io](Shwetakumari9555/Shwetakumari9555.github.io)
 
-- 💬 Ask me about Java, Spring, HTML,CSS
+- 💬 Ask me about Java, Spring, HTML, CSS
 
 - 📫 How to reach me **Shwetakumari8448@gmail.com**
 
