@@ -1,4 +1,4 @@
-![logo](https://wearefevr.com/wp-content/uploads/2023/02/TWILIO_-MODERN-AND-CLOUD-high.gif)
+![logo](https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-18.gif)
 <h1 align="center">Hi 👋, I'm Sweta Kumari</h1>
 
 <h3 align="center">As a passionate full-stack web developer, I breathe life into digital experiences and transform visions into reality. My dedication to excellence drives me to craft innovative web solutions that not only meet but exceed expectations. My goal is clear: to create stunning, efficient, and impactful web solutions that resonate and endure."</h3>
