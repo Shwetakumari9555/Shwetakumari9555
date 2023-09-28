@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU)
+![logo](https://wearefevr.com/wp-content/uploads/2023/02/TWILIO_-MODERN-AND-CLOUD-high.gif)
 <h1 align="center">Hi 👋, I'm Sweta Kumari</h1>
 
 <h3 align="center">As a passionate full-stack web developer, I breathe life into digital experiences and transform visions into reality. My dedication to excellence drives me to craft innovative web solutions that not only meet but exceed expectations. My goal is clear: to create stunning, efficient, and impactful web solutions that resonate and endure."</h3>
