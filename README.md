@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:679/0*j3VXRZloJnPdikYG)
+![logo](https://i.gifer.com/fetch/w300-preview/30/30efd95b15c977f6c06a08992b599208.gif)
 <h1 align="center">Hi 👋, I'm Sweta Kumari</h1>
 
 <h3 align="center">As a passionate full-stack web developer, I breathe life into digital experiences and transform visions into reality. My dedication to excellence drives me to craft innovative web solutions that not only meet but exceed expectations. My goal is clear: to create stunning, efficient, and impactful web solutions that resonate and endure."</h3>
