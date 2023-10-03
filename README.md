@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Tiny Toes clone of First.cry](https://github.com/viveKing21/tiny-toes-ecom)
 
-- 👨‍💻 All of my projects are available at [Shwetakumari9555/Shwetakumari9555.github.io](Shwetakumari9555/Shwetakumari9555.github.io)
+- 👨‍💻 All of my projects are available at [Shwetakumari9555/Shwetakumari9555.github.io](Shwetakumari9555.github.io)
 
 - 💬 Ask me about Java, Spring, HTML, CSS
 
