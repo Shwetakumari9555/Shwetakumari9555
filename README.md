@@ -1,4 +1,4 @@
-![logo](https://try.line2.com/wp-content/uploads/2020/09/gif_1.gif)
+
 <h1 align="center">Hi 👋, I'm Sweta Kumari</h1>
 
 <h3 align="center">I am a  passionate full-stack web developer, I breathe life into digital experiences and transform visions into reality. My dedication to excellence drives me to craft innovative web solutions that not only meet but exceed expectations. My goal is clear: to create stunning, efficient, and impactful web solutions that resonate and endure."</h3>
