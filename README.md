@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring boot, React, BootStrap**
 
-- 👯 I’m looking to collaborate on [Tiny Toes clone of First.cry](https://github.com/viveKing21/tiny-toes-ecom)
+- 👯 I’m looking to collaborate on [Clone Of Uno Game](https://github.com/Shwetakumari9555/Uno-Game)
 
 - 👨‍💻 All of my projects are available at [Shwetakumari9555/Shwetakumari9555.github.io](https://shwetakumari9555.github.io/)
 
