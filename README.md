@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Sweta Kumari</h1>
 
-<h3 align="center">I am a  passionate full-stack web developer, I breathe life into digital experiences and transform visions into reality. My dedication to excellence drives me to craft innovative web solutions that not only meet but exceed expectations. My goal is clear: to create stunning, efficient, and impactful web solutions that resonate and endure."</h3>
-
 <p align="center"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9199d0e-a3d1-4877-a998-487d5a5bb6d4_480x270.gif" /> </p>
+
+<h2 align="center">A Person who loves learning and enjoys working with cool tech stuff!</h2>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetakumari9555" alt="shwetakumari9555" /></a> </p>
 
