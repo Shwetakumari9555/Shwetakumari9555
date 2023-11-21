@@ -5,7 +5,7 @@
 
 <h2 align="center">A Person who loves learning and enjoys working with cool tech stuff!</h2>
 
-
+<br>
 <h3 align="center">Exploring tech is like growing wings</h3>
 
 
