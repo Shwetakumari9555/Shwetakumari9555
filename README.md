@@ -5,9 +5,9 @@
 
 <h2 align="center">A Person who loves learning and enjoys working with cool tech stuff!</h2>
 
-<br>
-<h3 align="center">Exploring tech is like growing wings</h3>
 
+<h3 align="center">Exploring tech is like growing wings</h3>
+<h4>Passionate Java back-end developer with a passion for teamwork. Proficient in Java, JavaScript, and back-end tech. Excels in problem-solving with Data Structures & Algorithms. Eager coder looking for opportunities in a product-focused company.Outside of work, I cherish exploring new places and meeting new people.</h4>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetakumari9555" alt="shwetakumari9555" /></a> </p>
