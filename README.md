@@ -6,6 +6,9 @@
 <h2 align="center">A Person who loves learning and enjoys working with cool tech stuff!</h2>
 
 
+<h3>Exploring tech is like growing wings</h3>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetakumari9555" alt="shwetakumari9555" /></a> </p>
 
