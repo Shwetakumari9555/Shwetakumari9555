@@ -20,7 +20,8 @@
 
 - 👨‍💻 All of my projects are available at [Shwetakumari9555/Shwetakumari9555.github.io](https://shwetakumari9555.github.io/)
 
-- 💬 Ask me about Java, Spring, HTML, CSS
+- 💬 Ask me about Java, Spring, HTML, CSS, Flutter
+
 
 - 📫 How to reach me **Shwetakumari8448@gmail.com**
 
