@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetakumari9555" alt="shwetakumari9555" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce-Website](https://github.com/Shwetakumari9555/vogue-pocket-8479)
+- 🔭 I’m currently working on E-Commerce Mobile Application using Flutter
 
-- 🌱 I’m currently learning **Spring boot, React, BootStrap**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on [Clone Of Uno Game](https://github.com/Shwetakumari9555/Uno-Game)
 
